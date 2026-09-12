@@ -1,0 +1,51 @@
+﻿disease_id,disease_name,disease_category,icd10_code,chronic_flag,transmission_type,severity_level,avg_recovery_days
+DIS039,Colorectal Cancer,Oncology,C18,Yes,Non-Communicable,Severe,20
+DIS038,Lung Cancer,Oncology,C34,Yes,Non-Communicable,Chronic-Managed,20
+DIS033,Alzheimer's Disease,Neurological,G30,Yes,Non-Communicable,Severe,20
+DIS045,Psoriasis,Dermatological,L40,Yes,Non-Communicable,Moderate,20
+DIS049,Irritable Bowel Syndrome,Digestive,K58,Yes,Non-Communicable,Unknown,20
+DIS001,Type 2 Diabetes Mellitus,Metabolic,E11,Yes,Non-Communicable,Chronic-Managed,20
+DIS028,Osteoporosis,Musculoskeletal,M81,Yes,Non-Communicable,Chronic-Managed,20
+DIS002,Type 1 Diabetes Mellitus,Metabolic,E10,Yes,Non-Communicable,Moderate,20
+DIS024,Measles,Infectious,B05,No,Air-Borne,Mild,12
+DIS014,Bronchitis,Respiratory,J40,No,Air-Borne,Mild,17
+DIS010,Influenza,Respiratory,J10,No,Air-Borne,Mild,28
+DIS011,Covid-19,Respiratory,U07.1,No,Air-Borne,Severe,4
+DIS031,Bipolar Disorder,Mental Health,F31,Yes,Non-Communicable,Severe,20
+DIS050,Conjunctivitis,Ophthalmic,H10,No,Contact,Moderate,30
+DIS040,Prostate Cancer,Oncology,C61,Yes,Non-Communicable,Severe,20
+DIS018,Hepatitis C,Infectious,B17.1,Yes,Blood-Borne,Moderate,20
+DIS048,Peptic Ulcer Disease,Digestive,K27,Yes,Non-Communicable,Moderate,20
+DIS037,Breast Cancer,Oncology,C50,Yes,Non-Communicable,Moderate,20
+DIS030,Anxiety Disorder,Mental Health,F41,Yes,Non-Communicable,Chronic-Managed,20
+DIS047,Gastroenteritis,Digestive,A09,No,Food-Borne,Moderate,22
+DIS013,Common Cold,Respiratory,J00,No,Air-Borne,Severe,26
+DIS029,Depression,Mental Health,F32,Yes,Non-Communicable,Chronic-Managed,20
+DIS017,Hepatitis B,Infectious,B16,Yes,Blood-Borne,Moderate,20
+DIS003,Hypertension,Cardiovascular,I10,Yes,Non-Communicable,Unknown,20
+DIS026,Rheumatoid Arthritis,Musculoskeletal,M06,Yes,Non-Communicable,Moderate,20
+DIS020,Malaria,Infectious,B54,No,Vector-Borne,Mild,6
+DIS007,Asthma,Respiratory,J45,Yes,Non-Communicable,Moderate,20
+DIS015,Chronic Kidney Disease,Renal,N18,Yes,Non-Communicable,Chronic-Managed,20
+DIS043,Obesity,Metabolic,E66,Yes,Non-Communicable,Unknown,20
+DIS025,Chickenpox,Infectious,B01,No,Air-Borne,Severe,29
+DIS006,Stroke,Cardiovascular,I63,No,Non-Communicable,Mild,22
+DIS036,Migraine,Neurological,G43,Yes,Non-Communicable,Moderate,20
+DIS034,Parkinson's Disease,Neurological,G20,Yes,Non-Communicable,Chronic-Managed,20
+DIS005,Congestive Heart Failure,Cardiovascular,I50,Yes,Non-Communicable,Severe,20
+DIS004,Coronary Artery Disease,Cardiovascular,I25,Yes,Non-Communicable,Chronic-Managed,20
+DIS021,Dengue Fever,Infectious,A90,No,Vector-Borne,Mild,15
+DIS027,Osteoarthritis,Musculoskeletal,M19,Yes,Non-Communicable,Chronic-Managed,20
+DIS042,Skin Cancer (Melanoma),Oncology,C43,Yes,Non-Communicable,Moderate,20
+DIS022,Typhoid Fever,Infectious,A01,No,Food-Borne,Severe,5
+DIS023,Cholera,Infectious,A00,No,Water-Borne,Severe,20
+DIS032,Schizophrenia,Mental Health,F20,Yes,Non-Communicable,Moderate,20
+DIS035,Epilepsy,Neurological,G40,Yes,Non-Communicable,Severe,20
+DIS008,Chronic Obstructive Pulmonary Disease,Respiratory,J44,Yes,Non-Communicable,Moderate,20
+DIS012,Tuberculosis,Respiratory,A15,Yes,Air-Borne,Chronic-Managed,20
+DIS019,HIV/AIDS,Infectious,B20,Yes,Blood-Borne,Moderate,20
+DIS044,Anemia,Hematological,D64,No,Non-Communicable,Moderate,23
+DIS009,Pneumonia,Respiratory,J18,No,Air-Borne,Severe,11
+DIS046,Eczema,Dermatological,L20,Yes,Non-Communicable,Unknown,20
+DIS016,Acute Kidney Injury,Renal,N17,No,Non-Communicable,Moderate,20
+DIS041,Leukemia,Oncology,C95,Yes,Non-Communicable,Severe,20
