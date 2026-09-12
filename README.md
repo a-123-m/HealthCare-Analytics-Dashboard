@@ -78,6 +78,7 @@ The data was connected to Tableau to build an interactive healthcare analytics d
 **Visualization:** Monthly Trend Line Chart
 
 This visual shows the monthly pattern of healthcare incidents and helps identify periods with relatively high or low incident volumes.
+<img width="1700" height="1027" alt="Screenshot 2026-09-12 201416" src="https://github.com/user-attachments/assets/7abd1d83-ae93-42df-8e55-9a08a741ab55" />
 
 ---
 
@@ -94,6 +95,7 @@ The analysis can be filtered by:
 - Transmission Type
 
 This helps identify diseases contributing most to the overall patient volume.
+<img width="1701" height="1028" alt="Screenshot 2026-09-12 201516" src="https://github.com/user-attachments/assets/05b7ac12-5c31-4452-a8c1-9effe069eea3" />
 
 ---
 
@@ -109,6 +111,7 @@ Patient volume is compared across:
 - Northeast
 
 This provides a high-level view of regional patient distribution and can support resource allocation decisions.
+<img width="1639" height="1024" alt="Screenshot 2026-09-12 201603" src="https://github.com/user-attachments/assets/68dbb295-a52d-4d54-922a-95f4e61ea83b" />
 
 ---
 
@@ -126,6 +129,7 @@ Admission types analyzed include:
 - Newborn
 
 This helps understand how patients enter the healthcare network and the proportion of unplanned versus planned care.
+<img width="1700" height="1030" alt="Screenshot 2026-09-12 201651" src="https://github.com/user-attachments/assets/24b65f6e-793b-492d-8f2f-1201603736c4" />
 
 ---
 
@@ -140,6 +144,8 @@ The top five diseases identified are:
 3. Typhoid Fever
 4. Acute Kidney Injury
 5. Obesity
+<img width="1697" height="1026" alt="Screenshot 2026-09-12 201744" src="https://github.com/user-attachments/assets/d0462cb0-7594-4d37-9f36-64797ce73d16" />
+
 
 ## 📊 Key Insights
 * Emergency admissions dominate the network at 85,837 incidents.
