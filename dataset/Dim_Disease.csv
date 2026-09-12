@@ -1,0 +1,54 @@
+disease_id,disease_name,disease_category,icd10_code,chronic_flag,transmission_type,severity_level,avg_recovery_days
+DIS039,Colorectal Cancer,Oncology,C18,Yes,Non-communicable,Severe,
+DIS038,lung cancer,Oncology,C34,Yes,  Non-communicable,Chronic-Managed,
+DIS033,Alzheimer's Disease,Neurological,G30,Yes,Non-communicable,Severe,
+DIS045,Psoriasis,Dermatological,L40,Yes,Non-communicable,Moderate,
+DIS049,Irritable Bowel Syndrome,Digestive,K58,Yes,Non-communicable,,
+DIS001,Type 2 Diabetes Mellitus,Metabolic,E11,Yes,Non-communicable,Chronic-Managed,
+DIS028,OSTEOPOROSIS,  Musculoskeletal,M81,Yes,Non-communicable,Chronic-Managed,
+DIS002,TYPE 1 DIABETES MELLITUS,Metabolic,E10,Yes,Non-communicable,Moderate,
+DIS024,Measles,Infectious,B05,No,Airborne,Mild,12.0
+DIS014,Bronchitis,  Respiratory  ,J40,No,Airborne,Mild,17.0
+DIS010,influenza,Respiratory,J10,No,AIRBORNE,Mild,28.0
+DIS011,COVID-19,Respiratory,U07.1,No,Airborne,Severe,4.0
+DIS031,Bipolar Disorder,Mental Health,F31,Yes,NON-COMMUNICABLE   ,Severe,
+DIS050,Conjunctivitis,Ophthalmic,H10,No,Contact,Moderate,30.0
+DIS040,Prostate Cancer,Oncology,C61,Yes,Non-communicable,Severe,
+DIS018,Hepatitis C,infectious,B17.1,Yes,BLOODBORNE,Moderate,
+DIS048,  Peptic Ulcer Disease  ,Digestive,K27,Yes,Non-communicable,Moderate,
+DIS037,Breast Cancer,Oncology,C50,Yes,Non-communicable,Moderate,
+DIS030,Anxiety Disorder,Mental Health,F41,Yes,Non-Communicable,Chronic-Managed,
+DIS047,Gastroenteritis,Digestive,A09,No,Foodborne,Moderate,22.0
+DIS013,  Common Cold,Respiratory,J00,No,Airborne,Severe,26.0
+DIS029,Depression,  MENTAL HEALTH,F32,Yes,Non-communicable,Chronic-Managed,
+DIS037,Breast Cancer,Oncology,C50,Yes,Non-communicable,Moderate,
+DIS017,Hepatitis B,Infectious,B16,Yes,BLOODBORNE,Moderate,
+DIS003,Hypertension,Cardiovascular   ,I10,Yes,Non-communicable,,
+DIS026,Rheumatoid Arthritis,Musculoskeletal,M06,Yes,Non-communicable,Moderate,
+DIS020,Malaria,Infectious,B54,No,Vector-borne,Mild,6.0
+DIS007,ASTHMA,Respiratory,J45,Yes,  NON-COMMUNICABLE,Moderate,
+DIS015,  Chronic Kidney Disease,Renal,N18,Yes,Non-communicable,Chronic-Managed,
+DIS043,Obesity,metabolic,E66,Yes,Non-communicable,,
+DIS025,  Chickenpox  ,Infectious,B01,No,Airborne,Severe,29.0
+DIS006,Stroke,cardiovascular,I63,No,Non-communicable,Mild,22.0
+DIS036,Migraine,Neurological,G43,Yes,Non-communicable,Moderate,
+DIS034,Parkinson's Disease,Neurological,G20,Yes,Non-communicable,Chronic-Managed,
+DIS005,Congestive Heart Failure,Cardiovascular,I50,Yes,Non-communicable,Severe,
+DIS004,Coronary Artery Disease   ,  Cardiovascular,I25,Yes,Non-communicable,Chronic-Managed,
+DIS021,Dengue Fever,Infectious,A90,No,Vector-borne,Mild,15.0
+DIS027,Osteoarthritis,Musculoskeletal,M19,Yes,Non-communicable,Chronic-Managed,
+DIS042,Skin Cancer (Melanoma),Oncology,C43,Yes,Non-communicable,Moderate,
+DIS022,Typhoid Fever,  Infectious,A01,No,Foodborne,Severe,5.0
+DIS023,Cholera,Infectious,A00,No,Waterborne,Severe,20.0
+DIS032,Schizophrenia,Mental Health,F20,Yes,Non-communicable,Moderate,
+DIS035,Epilepsy,Neurological,G40,Yes,Non-communicable,Severe,
+DIS008,chronic obstructive pulmonary disease,respiratory   ,J44,Yes,Non-communicable,Moderate,
+DIS038,lung cancer,Oncology,C34,Yes,  Non-communicable,Chronic-Managed,
+DIS012,Tuberculosis   ,Respiratory,A15,Yes,Airborne,Chronic-Managed,
+DIS019,hiv/aids,Infectious,B20,Yes,Bloodborne,Moderate,
+DIS044,Anemia,Hematological,D64,No,Non-communicable,Moderate,23.0
+DIS023,Cholera,Infectious,A00,No,Waterborne,Severe,20.0
+DIS009,Pneumonia,Respiratory,J18,No,airborne,Severe,11.0
+DIS046,Eczema,Dermatological,L20,Yes,Non-communicable,,
+DIS016,Acute Kidney Injury,Renal,N17,No,Non-communicable,Moderate,20.0
+DIS041,Leukemia,Oncology,C95,Yes,Non-communicable,Severe,

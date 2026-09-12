@@ -1,0 +1,346 @@
+hospital_id,hospital_name,hospital_type,ownership_type,city,state,bed_capacity,accreditation_status,established_year
+HOS0064,jackson university hospital,general hospital,Private,Jackson,MS,250.0,,1928
+HOS0035,Virginia Beach Medical Center #035,Community Hospital,Non-Profit,Virginia Beach   ,VA,,Not Accredited,1974
+HOS0186,  Savannah Community Health Center #186,General Hospital,University-Affiliated,Savannah,GA,200.0,NABH Accredited,1935
+HOS0147,Tulsa Health System,General Hospital,Non-Profit,Tulsa,OK,,,1984
+HOS0131,Charlotte General Hospital #131   ,Children's Hospital,Government,CHARLOTTE   ,  NC,300.0,Not Accredited,1997
+HOS0179,Boise Regional Hospital #179,Community Hospital,  Government,Boise,ID,750.0,Not Accredited,1998
+HOS0262,Charleston Memorial Hospital #262,Specialty Clinic,Non-Profit,Charleston,SC,75.0,  JCI Accredited,1950
+HOS0015,Savannah Memorial Hospital #015,Community Hospital,Private,Savannah,GA,400.0,JCI Accredited,2012
+HOS0167,Grand Rapids Community Health Center #167,Children's Hospital,Non-Profit,Grand Rapids,  MI,200.0,JCI Accredited,2004
+HOS0102,Provo Memorial Hospital #102   ,Children's Hospital,University-Affiliated,Provo,UT,400.0,CMS Certified,2013
+HOS0163,Newark Clinic #163,Teaching Hospital,,Newark,NJ,200.0,JCI Accredited,1979
+HOS0288,raleigh university hospital #288   ,Children's Hospital,Government,Raleigh,NC,200.0,Not Accredited,2010
+HOS0129,Baltimore Memorial Hospital,Children's Hospital,Non-Profit,Baltimore,MD,400.0,JCI Accredited,1979
+HOS0135,Springfield Clinic #135   ,General Hospital,University-Affiliated,Springfield,IL,250.0,CMS Certified,1962
+HOS0084,New York Medical Center,  specialty clinic,,New York,NY,300.0,JCI Accredited,1993
+HOS0174,  Madison Memorial Hospital  ,Specialty Clinic,Non-Profit,Madison,WI,400.0,not accredited,2015
+HOS0101,Milwaukee Community Health Center,Community Hospital,Private,Milwaukee,WI,300.0,,2013
+HOS0170,Columbus Regional Hospital   ,Children's Hospital,Non-Profit,  Columbus,  OH,1000.0,Nabh Accredited,2000
+HOS0007,Omaha University Hospital,Teaching Hospital,GOVERNMENT,Omaha,NE,150.0,Not Accredited,1947
+HOS0263,Kansas City University Hospital,Children's Hospital,University-Affiliated,Kansas City,MO,75.0,JCI Accredited,1983
+HOS0113,Newark Regional Hospital,Community Hospital,Non-Profit,newark,NJ,750.0,Not Accredited,1932
+HOS0025,Virginia Beach General Hospital #025,  general hospital,PRIVATE,Virginia Beach,VA,75.0,JCI Accredited,1962
+HOS0294,Richmond Community Health Center,Community Hospital,Private,Richmond,VA,750.0,JCI Accredited,1928
+HOS0071,Charlotte Health System,general  hospital,Non-Profit,Charlotte,NC,500.0,Not Accredited,1931
+HOS0012,Charleston  University  Hospital,Children's Hospital,Government,Charleston,SC,300.0,CMS Certified,1996
+HOS0067,San Diego University Hospital #067,Teaching Hospital,private,San Diego,CA,150.0,,2005
+HOS0048,Hartford Community Health Center,Specialty Clinic,non-profit,Hartford,ct,500.0,CMS Certified,1952
+HOS0073,Oklahoma City Medical Center,Specialty Clinic,university-affiliated,Oklahoma City,ok,750.0,JCI Accredited,1978
+HOS0092,San Francisco General Hospital #092,Community Hospital,Government,San Francisco,CA,500.0,JCI Accredited,1964
+HOS0219,BOISE REGIONAL HOSPITAL #219,Specialty Clinic,Non-Profit,Boise,ID,200.0,Not Accredited,1935
+HOS0207,CHICAGO REGIONAL HOSPITAL   ,specialty clinic,University-Affiliated,Chicago,IL,150.0,JCI Accredited,1964
+HOS0125,Montgomery Clinic,Teaching Hospital,Government,Montgomery,AL,150.0,Not Accredited,2010
+HOS0014,San  Jose  General  Hospital,Children'S Hospital,Non-Profit,San Jose,CA,,Not Accredited,1934
+HOS0065,Des Moines Community Health Center #065,Children's Hospital,Non-Profit,Des Moines,IA,1000.0,JCI ACCREDITED,2012
+HOS0044,  Des Moines Community Health Center #044,General Hospital,Private,Des Moines,IA,250.0,,1940
+HOS0265,Orlando Medical Center #265,Children's Hospital,Non-Profit,Orlando,fl,150.0,CMS Certified,1943
+HOS0094,San Jose Medical Center #094,Children's Hospital,Private   ,San Jose,CA,150.0,nabh accredited,1980
+HOS0037,Provo Medical Center,Teaching Hospital,,Provo   ,Ut,50.0,  CMS Certified,1984
+HOS0284,Austin  University  Hospital  #284,Children's Hospital,  GOVERNMENT,Austin,TX,750.0,NABH Accredited,2006
+HOS0249,orlando health system,Specialty Clinic,Private,orlando,FL,400.0,JCI Accredited,1972
+HOS0019,Charleston Community Health Center #019,Teaching Hospital,Private,Charleston,SC,50.0,NABH Accredited,1992
+HOS0290,  newark health system #290  ,General Hospital,University-Affiliated,Newark,nj,,CMS Certified,1931
+HOS0293,  Anchorage Regional Hospital #293  ,Specialty Clinic,Private,Anchorage,AK,400.0,JCI Accredited,1966
+HOS0141,Virginia Beach Regional Hospital,Teaching Hospital,Private,Virginia Beach,VA,200.0,,2009
+HOS0204,Providence Community Health Center #204,Specialty Clinic   ,Government,Providence,RI,750.0,,2005
+HOS0056,Honolulu Health System   ,TEACHING HOSPITAL,University-Affiliated,  honolulu,hi,1000.0,NABH Accredited,1954
+HOS0069,grand rapids memorial hospital,Specialty Clinic,University-Affiliated,Grand Rapids,MI,750.0,Not Accredited,1979
+HOS0083,Saint Paul University Hospital,Community Hospital,Non-Profit,Saint Paul,MN,500.0,CMS Certified,1973
+HOS0085,  Boston University Hospital #085  ,Community Hospital,,  BOSTON,MA,250.0,Not Accredited,1969
+HOS0089,Cincinnati Medical Center   ,General Hospital,,cincinnati   ,OH   ,100.0,CMS Certified,1943
+HOS0002,Tucson Regional Hospital #002,Teaching Hospital,Government,tucson,AZ,150.0,JCI Accredited,1968
+HOS0013,Jackson Clinic,  Children's Hospital  ,  Non-Profit,Jackson,MS,500.0,JCI Accredited,2007
+HOS0177,  Omaha Memorial Hospital,Children's Hospital   ,Government   ,Omaha   ,NE,400.0,Not Accredited,2006
+HOS0093,  Baltimore Regional Hospital,General Hospital,Government   ,Baltimore,MD   ,50.0,NABH Accredited,1945
+HOS0215,  Newark Clinic #215,Community Hospital   ,University-Affiliated,Newark,NJ,,,1973
+HOS0222,Denver Medical Center,Community Hospital   ,Government,Denver,CO,400.0,JCI Accredited,1960
+HOS0178,Virginia Beach Memorial Hospital   ,CHILDREN'S HOSPITAL,,Virginia Beach,VA,1000.0,,1933
+HOS0285,Cincinnati Clinic,Teaching Hospital,Non-Profit,cincinnati,OH,400.0,JCI Accredited,1993
+HOS0194,austin community health center,Children's Hospital,Government,AUSTIN,TX,400.0,NABH Accredited,1998
+HOS0130,Oklahoma City Memorial Hospital,Community Hospital,Non-Profit,Oklahoma City,OK,500.0,CMS Certified,1976
+HOS0227,  Indianapolis Memorial Hospital  ,Teaching Hospital,Private,Indianapolis,in   ,250.0,,1929
+HOS0247,Savannah General Hospital #247,Teaching Hospital,Government,SAVANNAH,GA,500.0,JCI Accredited,2004
+HOS0062,Omaha General Hospital,CHILDREN'S HOSPITAL,University-Affiliated,omaha,NE,250.0,Not Accredited,1975
+HOS0046,Austin Memorial Hospital #046,General  Hospital,Private   ,Austin,TX,200.0,Jci Accredited   ,1933
+HOS0260,Little Rock Clinic,  SPECIALTY CLINIC,University-Affiliated,  Little Rock  ,AR   ,400.0,JCI Accredited,1930
+HOS0287,Chicago Memorial Hospital   ,Specialty Clinic,,Chicago   ,IL,50.0,NABH Accredited,1983
+HOS0252,Louisville Community Health Center   ,  children's hospital,University-Affiliated,Louisville,KY,400.0,Not Accredited,1968
+HOS0034,Houston Clinic   ,Specialty Clinic,University-Affiliated,Houston,TX,50.0,,1968
+HOS0075,birmingham regional hospital,Specialty Clinic,  Government  ,Birmingham,AL,75.0,,1948
+HOS0155,Los Angeles Clinic,Teaching Hospital,NON-PROFIT,Los Angeles,CA,750.0,CMS Certified,2003
+HOS0268,minneapolis medical center,Teaching Hospital,Government,Minneapolis,MN,250.0,NABH Accredited,2013
+HOS0221,Providence Regional Hospital,  Children'S Hospital,Non-Profit,Providence,RI,75.0,  CMS Certified,2014
+HOS0240,Jersey City Medical Center,Teaching Hospital,Government,  Jersey City,NJ,250.0,JCI Accredited,1991
+HOS0047,Milwaukee Health System #047,Teaching Hospital,Non-Profit,Milwaukee,WI,750.0,NABH Accredited,2011
+HOS0259,Savannah General Hospital #259,Teaching Hospital,Private,Savannah,GA,100.0,JCI  Accredited,1956
+HOS0107,Pittsburgh Regional Hospital #107,General Hospital,private,  Pittsburgh  ,PA,300.0,CMS Certified,1991
+HOS0057,Wichita Health System,general hospital,University-Affiliated,Wichita,KS,50.0,CMS Certified,1948
+HOS0207,CHICAGO REGIONAL HOSPITAL   ,specialty clinic,University-Affiliated,Chicago,IL,150.0,JCI Accredited,1964
+HOS0220,Tulsa Medical Center #220,Community Hospital,University-Affiliated,Tulsa,OK,100.0,NABH Accredited,1968
+HOS0143,  Phoenix Health System #143,Teaching Hospital,Government,Phoenix,AZ,500.0,CMS Certified,1931
+HOS0035,Virginia Beach Medical Center #035,Community Hospital,Non-Profit,Virginia Beach   ,VA,,Not Accredited,1974
+HOS0115,Orlando Medical Center #115   ,  Children's Hospital  ,PRIVATE,Orlando,fl,200.0,JCI Accredited,1926
+HOS0128,Jackson Health System #128,Teaching Hospital,,Jackson,MS,75.0,,1941
+HOS0292,Anchorage Health System,Specialty Clinic,NON-PROFIT,Anchorage,  AK,500.0,NABH Accredited,1935
+HOS0273,Salt Lake City Clinic #273,Teaching Hospital,  Government,Salt Lake City,ut,1000.0,,1956
+HOS0227,  Indianapolis Memorial Hospital  ,Teaching Hospital,Private,Indianapolis,in   ,250.0,,1929
+HOS0158,Buffalo General Hospital,Community Hospital,Government,Buffalo,NY,,JCI Accredited,1976
+HOS0154,Saint Paul Clinic,general hospital,,Saint Paul,MN,300.0,,1929
+HOS0100,  Charleston Community Health Center #100  ,General Hospital,University-Affiliated,Charleston,SC,400.0,jci  accredited,1975
+HOS0090,ATLANTA MEDICAL CENTER,Teaching Hospital,,Atlanta,GA,250.0,,1978
+HOS0229,MADISON HEALTH SYSTEM,Specialty Clinic,Government,madison,WI,100.0,Not Accredited,1945
+HOS0246,Savannah Community Health Center #246,Community Hospital,Private,Savannah,GA,150.0,NABH Accredited,1939
+HOS0275,Sacramento University Hospital,Community Hospital,University-Affiliated,Sacramento,CA,,Not Accredited,1943
+HOS0248,Columbus Community Health Center,Children's Hospital,Private,  Columbus,OH,750.0,CMS Certified,1939
+HOS0130,Oklahoma City Memorial Hospital,Community Hospital,Non-Profit,Oklahoma City,OK,500.0,CMS Certified,1976
+HOS0258,Salt Lake City University Hospital,General Hospital,Non-Profit,salt lake city,UT,150.0,JCI Accredited,1960
+HOS0262,Charleston Memorial Hospital #262,Specialty Clinic,Non-Profit,Charleston,SC,75.0,  JCI Accredited,1950
+HOS0104,Montgomery Regional Hospital,Community Hospital,University-Affiliated,Montgomery,Al,250.0,JCI Accredited,1983
+HOS0205,pittsburgh general hospital #205,COMMUNITY HOSPITAL   ,Non-Profit,Pittsburgh,PA,1000.0,CMS Certified,2012
+HOS0266,Virginia Beach General Hospital #266,Children's Hospital,Non-Profit,Virginia Beach,VA,75.0,JCI Accredited,1969
+HOS0177,  Omaha Memorial Hospital,Children's Hospital   ,Government   ,Omaha   ,NE,400.0,Not Accredited,2006
+HOS0277,Indianapolis University Hospital,General Hospital,University-Affiliated,Indianapolis,IN,750.0,NABH Accredited,1989
+HOS0269,Cleveland General Hospital,Children's Hospital,Non-Profit,Cleveland,OH,100.0,JCI ACCREDITED,1965
+HOS0040,Dallas Medical Center,Children's Hospital,,Dallas,Tx,300.0,Not Accredited,1953
+HOS0021,Columbus Clinic #021,Children's Hospital,Private,Columbus,OH,200.0,CMS Certified,1947
+HOS0140,Charlotte Community Health Center,CHILDREN'S HOSPITAL,University-Affiliated,Charlotte,NC,1000.0,CMS Certified,1926
+HOS0206,Saint Paul Medical Center,Teaching Hospital,Non-Profit,Saint Paul,mn,250.0,,1993
+HOS0299,Seattle Health System,Specialty Clinic,Non-Profit,  Seattle,  wa,150.0,not accredited,1986
+HOS0017,SAVANNAH MEMORIAL HOSPITAL #017   ,Children's Hospital,Private,savannah,GA,100.0,Not Accredited,1940
+HOS0168,oklahoma city university hospital #168,Teaching Hospital,Government,Oklahoma City,OK,750.0,JCI Accredited,1997
+HOS0212,  buffalo regional hospital,Community Hospital,University-Affiliated,  Buffalo  ,Ny,,Not Accredited,1940
+HOS0190,St. Louis Medical Center #190,Teaching Hospital,Private,St. Louis,MO,,Not Accredited,1942
+HOS0043,  Columbia General Hospital  ,General Hospital,Private,Columbia,SC,,  Not Accredited,1936
+HOS0189,ANCHORAGE REGIONAL HOSPITAL #189   ,Children's Hospital,Private,Anchorage,AK,150.0,Not Accredited,1938
+HOS0072,Detroit Regional Hospital,Teaching Hospital,Private,Detroit,MI,,NABH Accredited,1923
+HOS0196,san antonio clinic,Community Hospital,University-Affiliated,  San Antonio,TX,1000.0,JCI Accredited,1982
+HOS0173,Orlando University Hospital #173,  Specialty Clinic,Private,Orlando,FL,100.0,not accredited,1987
+HOS0070,Chicago Clinic,Community Hospital,Private,Chicago,IL,,CMS Certified,2014
+HOS0230,  Albuquerque Health System,Children's Hospital,Private,ALBUQUERQUE,NM,1000.0,  JCI Accredited  ,1942
+HOS0097,Spokane Medical Center,Teaching Hospital,University-Affiliated,Spokane,WA,300.0,,1929
+HOS0161,Denver University Hospital,Children's Hospital,Private,Denver,CO,100.0,,1930
+HOS0271,Minneapolis General Hospital,Community Hospital,Government,Minneapolis   ,MN,200.0,NABH Accredited,1925
+HOS0272,LITTLE ROCK REGIONAL HOSPITAL   ,General Hospital,Non-Profit,Little Rock,AR,200.0,CMS Certified,1989
+HOS0134,Springfield Clinic #134,Teaching Hospital,Private,Springfield,IL,750.0,CMS Certified,2001
+HOS0081,Spokane Memorial Hospital #081,TEACHING HOSPITAL,Non-Profit,Spokane,Wa   ,500.0,JCI Accredited,1937
+HOS0087,Tucson University Hospital,Community Hospital,Government,Tucson,AZ,300.0,Not Accredited,2005
+HOS0124,austin general hospital   ,Specialty Clinic,Government,  AUSTIN  ,TX,300.0,CMS Certified,2008
+HOS0181,Hartford Health System,  general hospital  ,GOVERNMENT,Hartford,  CT  ,200.0,CMS Certified,1934
+HOS0114,Pittsburgh Regional Hospital #114,Teaching Hospital,Private,Pittsburgh,PA   ,250.0,NABH Accredited,1958
+HOS0119,  Louisville Clinic,GENERAL HOSPITAL,Government,LOUISVILLE,KY,100.0,,1992
+HOS0243,Columbus  University  Hospital,Specialty Clinic,Government   ,Columbus,  OH  ,200.0,CMS Certified,2002
+HOS0138,Richmond General Hospital,Teaching Hospital,,Richmond,VA,,JCI Accredited,1971
+HOS0133,Tampa Memorial Hospital,Children's Hospital,Government,Tampa,fl,100.0,CMS  Certified,1986
+HOS0054,Springfield Regional Hospital   ,Specialty Clinic,Government,Springfield,IL,250.0,CMS Certified,1999
+HOS0176,Boston University Hospital #176,Children's Hospital,non-profit   ,Boston,MA,75.0,,1921
+HOS0274,Providence Community Health Center #274,General Hospital,Non-Profit   ,Providence,RI,200.0,JCI Accredited,1967
+HOS0183,Chicago University Hospital,children's hospital,PRIVATE,CHICAGO   ,IL   ,300.0,JCI Accredited,1982
+HOS0020,Tampa General Hospital,General Hospital   ,University-Affiliated,Tampa,FL   ,,NABH Accredited,1936
+HOS0118,Des Moines Medical Center,TEACHING HOSPITAL,University-Affiliated,Des Moines,IA,75.0,JCI Accredited,1971
+HOS0049,Tulsa Medical Center #049,  General Hospital,university-affiliated,Tulsa,OK,200.0,JCI Accredited,1920
+HOS0175,  BUFFALO COMMUNITY HEALTH CENTER #175,General Hospital,University-Affiliated,buffalo,NY,75.0,NABH Accredited,1948
+HOS0224,ATLANTA GENERAL HOSPITAL,Community Hospital,  government,Atlanta,GA,250.0,NABH Accredited,1999
+HOS0276,Eugene Clinic,Community Hospital,Non-Profit,Eugene,OR,500.0,Not Accredited,1930
+HOS0117,  Portland Memorial Hospital  ,Community Hospital,University-Affiliated,Portland,OR,400.0,Not Accredited,1943
+HOS0203,MILWAUKEE  GENERAL  HOSPITAL,General  Hospital,Government,Milwaukee,wi,,,2015
+HOS0201,Birmingham University Hospital,General Hospital,Non-Profit,Birmingham,AL,300.0,Not Accredited,2005
+HOS0099,St. Louis Medical Center #099,Teaching Hospital,UNIVERSITY-AFFILIATED   ,St. Louis,MO,1000.0,Not Accredited,1928
+HOS0009,Milwaukee Regional Hospital,Children's Hospital,Non-Profit,Milwaukee,WI,750.0,CMS Certified,1994
+HOS0112,  Richmond Regional Hospital,Teaching Hospital,Government,Richmond,VA,,NABH Accredited,1944
+HOS0270,San Diego Community Health Center,Specialty Clinic,University-Affiliated,San Diego,ca,400.0,NABH Accredited,1937
+HOS0111,TULSA CLINIC   ,Teaching Hospital,  non-profit,Tulsa,Ok,200.0,NABH Accredited,1935
+HOS0119,  Louisville Clinic,GENERAL HOSPITAL,Government,LOUISVILLE,KY,100.0,,1992
+HOS0224,ATLANTA GENERAL HOSPITAL,Community Hospital,  government,Atlanta,GA,250.0,NABH Accredited,1999
+HOS0185,Philadelphia Clinic   ,Specialty Clinic,Non-Profit,Philadelphia,PA,75.0,Not Accredited,1989
+HOS0024,Memphis Medical Center,Children's Hospital,Private,Memphis,TN,750.0,NABH Accredited,1920
+HOS0296,Cincinnati General Hospital #296,Specialty Clinic,Non-Profit,Cincinnati,OH,1000.0,JCI Accredited,1977
+HOS0271,Minneapolis General Hospital,Community Hospital,Government,Minneapolis   ,MN,200.0,NABH Accredited,1925
+HOS0091,Boulder Community Health Center,Teaching Hospital   ,University-Affiliated,Boulder   ,CO,200.0,CMS Certified,1952
+HOS0077,Richmond Clinic #077,Specialty Clinic,University-Affiliated,Richmond,VA,1000.0,Not Accredited,1976
+HOS0109,Worcester Memorial Hospital #109,  Specialty Clinic,University-Affiliated   ,Worcester,MA,150.0,Not Accredited,2004
+HOS0187,  Dallas Clinic  ,General Hospital,Private,dallas,TX,,JCI Accredited,1926
+HOS0002,Tucson Regional Hospital #002,Teaching Hospital,Government,tucson,AZ,150.0,JCI Accredited,1968
+HOS0163,Newark Clinic #163,Teaching Hospital,,Newark,NJ,200.0,JCI Accredited,1979
+HOS0226,Anchorage University Hospital #226,Children's Hospital,University-Affiliated,Anchorage,AK,500.0,JCI Accredited,1970
+HOS0213,Cincinnati Community Health Center,Teaching Hospital,Non-Profit,CINCINNATI,OH,750.0,JCI Accredited,1926
+HOS0082,Louisville Health System,Specialty Clinic,University-Affiliated   ,  Louisville,KY,100.0,NABH Accredited,1928
+HOS0164,Honolulu Memorial Hospital,  children's hospital  ,Private,Honolulu,HI,75.0,CMS Certified,1964
+HOS0058,wichita regional hospital,Community Hospital,Non-Profit,Wichita,ks,200.0,NABH Accredited,1948
+HOS0122,San Diego University Hospital #122   ,Teaching Hospital,Government,San Diego,CA,750.0,JCI Accredited,1946
+HOS0027,Newark Health System #027,Children's Hospital,University-Affiliated,Newark,NJ,150.0,CMS Certified,1972
+HOS0141,Virginia Beach Regional Hospital,Teaching Hospital,Private,Virginia Beach,VA,200.0,,2009
+HOS0211,Portland University Hospital #211,  general hospital,,Portland,OR,1000.0,JCI Accredited,1931
+HOS0245,Spokane Community Health Center #245,General Hospital,  Non-Profit,SPOKANE,WA,200.0,  nabh accredited,1947
+HOS0005,Baton Rouge Regional Hospital,Specialty Clinic,  University-Affiliated,Baton Rouge   ,LA,300.0,,2001
+HOS0228,New York General Hospital,Children's Hospital,Private,New York,NY,250.0,Not Accredited,2013
+HOS0078,Portland University Hospital #078,Children's Hospital,University-Affiliated,Portland,OR   ,100.0,CMS Certified,1977
+HOS0255,Raleigh General Hospital,  TEACHING HOSPITAL,Government,Raleigh,  NC,100.0,Not Accredited,1977
+HOS0242,Nashville General Hospital,  CHILDREN'S HOSPITAL,Private,NASHVILLE,TN,,,2003
+HOS0063,Houston General Hospital,Community Hospital,Private,  HOUSTON,  TX,200.0,  JCI Accredited,2010
+HOS0239,Saint Paul Community Health Center,Teaching Hospital,,Saint Paul,MN,300.0,Not Accredited,2006
+HOS0250,Providence Community Health Center #250,Specialty Clinic,University-Affiliated,Providence,RI,750.0,Not Accredited,2015
+HOS0039,Cincinnati General Hospital #039,Specialty Clinic,University-Affiliated,Cincinnati,OH,75.0,,1994
+HOS0264,San Jose Medical Center #264,Children's Hospital,Private,San Jose,CA,100.0,Not Accredited,1974
+HOS0156,  San Francisco General Hospital #156  ,  Teaching Hospital  ,UNIVERSITY-AFFILIATED,SAN FRANCISCO   ,Ca,,CMS Certified,1989
+HOS0291,Kansas City Community Health Center #291,Teaching Hospital,Government,Kansas  City,mo,500.0,Not Accredited,1958
+HOS0145,  Provo Memorial Hospital #145,Children's Hospital,  Non-Profit  ,Provo,UT,300.0,CMS Certified,1980
+HOS0029,Milwaukee University Hospital #029   ,community hospital,University-Affiliated,Milwaukee,WI,50.0,JCI Accredited,1927
+HOS0298,Cincinnati University Hospital,Children's Hospital   ,government,Cincinnati,  OH,75.0,NABH Accredited,1958
+HOS0148,New York Memorial Hospital,  General Hospital,Non-Profit,New York,  NY,200.0,CMS Certified,1939
+HOS0003,NASHVILLE MEMORIAL HOSPITAL,Community Hospital,  Non-Profit,Nashville,TN,100.0,Not Accredited,1965
+HOS0190,St. Louis Medical Center #190,Teaching Hospital,Private,St. Louis,MO,,Not Accredited,1942
+HOS0037,Provo Medical Center,Teaching Hospital,,Provo   ,Ut,50.0,  CMS Certified,1984
+HOS0030,Raleigh University Hospital #030,Teaching Hospital,  Government,Raleigh,NC,150.0,,1944
+HOS0153,Columbia Medical Center,Specialty Clinic,Non-Profit,Columbia,  SC  ,75.0,CMS Certified,1932
+HOS0210,Phoenix Memorial Hospital #210,Teaching Hospital,NON-PROFIT   ,PHOENIX,AZ,50.0,NABH Accredited,1938
+HOS0006,Albuquerque Regional Hospital,Teaching Hospital,Government,albuquerque,NM,150.0,,1960
+HOS0038,  Kansas City Health System #038,General Hospital,,kansas city,MO,100.0,  JCI Accredited,1996
+HOS0026,Providence General Hospital,children's hospital   ,Private,Providence,RI,200.0,CMS Certified,1947
+HOS0033,Honolulu Medical Center,General Hospital,Private,Honolulu,HI,100.0,CMS Certified,1982
+HOS0282,Kansas City Health System #282,General Hospital,Private,Kansas City,MO,750.0,  CMS Certified,1924
+HOS0234,  Cleveland Clinic #234,Community Hospital,Government   ,Cleveland,OH,50.0,Not Accredited,1956
+HOS0116,miami  memorial  hospital,SPECIALTY CLINIC   ,University-Affiliated,Miami,Fl,75.0,JCI Accredited,1993
+HOS0157,Portland Medical Center,Children's Hospital,Government,Portland,OR,150.0,Not Accredited,1949
+HOS0257,St. Louis Medical Center #257,Community Hospital,Government,St. Louis,Mo,300.0,,1950
+HOS0106,CHARLESTON COMMUNITY HEALTH CENTER #106,Teaching Hospital,,Charleston,SC,500.0,JCI Accredited,1986
+HOS0217,Montgomery Memorial Hospital,Children's Hospital,University-Affiliated,Montgomery,AL,500.0,Not Accredited,1925
+HOS0103,Provo Memorial Hospital #103,teaching hospital,  Private,Provo,UT,75.0,Not Accredited,1977
+HOS0177,  Omaha Memorial Hospital,Children's Hospital   ,Government   ,Omaha   ,NE,400.0,Not Accredited,2006
+HOS0043,  Columbia General Hospital  ,General Hospital,Private,Columbia,SC,,  Not Accredited,1936
+HOS0220,Tulsa Medical Center #220,Community Hospital,University-Affiliated,Tulsa,OK,100.0,NABH Accredited,1968
+HOS0287,Chicago Memorial Hospital   ,Specialty Clinic,,Chicago   ,IL,50.0,NABH Accredited,1983
+HOS0214,Virginia Beach Health System #214,Specialty Clinic,  Government,Virginia Beach,VA,1000.0,JCI Accredited,1954
+HOS0144,Tucson Regional Hospital #144,  General Hospital,University-Affiliated,Tucson,  AZ,75.0,NABH Accredited,1983
+HOS0042,Buffalo Memorial Hospital   ,Community Hospital,Non-Profit,Buffalo,NY,75.0,JCI Accredited,1978
+HOS0011,Boston Medical Center,General Hospital,  Private  ,BOSTON,MA,1000.0,  NABH Accredited  ,2007
+HOS0180,New York Regional Hospital,General Hospital   ,University-Affiliated,New York,NY,200.0,CMS Certified,1934
+HOS0008,Virginia Beach Clinic #008,Community Hospital,University-Affiliated,Virginia Beach,VA,100.0,Not Accredited,1937
+HOS0209,Omaha Medical Center,Children's Hospital,Non-Profit,Omaha,NE,50.0,NABH Accredited,1954
+HOS0149,Richmond Clinic #149   ,  Children's Hospital,University-Affiliated,Richmond,  VA  ,250.0,Not Accredited   ,1990
+HOS0075,birmingham regional hospital,Specialty Clinic,  Government  ,Birmingham,AL,75.0,,1948
+HOS0130,Oklahoma City Memorial Hospital,Community Hospital,Non-Profit,Oklahoma City,OK,500.0,CMS Certified,1976
+HOS0281,Provo University Hospital,Teaching Hospital,Government,Provo,UT,75.0,CMS Certified,1966
+HOS0267,Albuquerque Clinic,General Hospital,University-Affiliated,Albuquerque,NM,250.0,Not Accredited,2015
+HOS0066,Minneapolis Memorial Hospital,CHILDREN'S HOSPITAL,Non-Profit,Minneapolis,MN   ,1000.0,CMS Certified,1961
+HOS0279,Austin Memorial Hospital #279,Teaching Hospital,University-Affiliated,Austin,TX,750.0,CMS Certified,1941
+HOS0036,Cleveland Clinic #036,Specialty Clinic,PRIVATE,Cleveland,OH   ,200.0,nabh accredited,1927
+HOS0160,Detroit Memorial Hospital,Teaching Hospital,Non-Profit,Detroit,MI,300.0,NABH Accredited,1951
+HOS0110,Kansas City Community Health Center #110,Community Hospital,Non-Profit,kansas city,MO,300.0,Not Accredited,1965
+HOS0121,Nashville Regional Hospital,Children's Hospital,University-Affiliated,  Nashville,TN,400.0,CMS Certified,1958
+HOS0171,  Pittsburgh General Hospital #171  ,General Hospital,Non-Profit,Pittsburgh,PA,400.0,,1994
+HOS0173,Orlando University Hospital #173,  Specialty Clinic,Private,Orlando,FL,100.0,not accredited,1987
+HOS0254,Kansas City Medical Center,Community Hospital,Non-Profit,Kansas City,  MO  ,,JCI Accredited,2011
+HOS0216,  BOISE MEMORIAL HOSPITAL,Specialty Clinic   ,,Boise,id,250.0,CMS Certified,1934
+HOS0193,Boulder University Hospital,Children's Hospital,Government,Boulder,CO,75.0,CMS Certified,1977
+HOS0236,New Orleans Regional Hospital #236,teaching hospital,University-Affiliated,New Orleans,LA,500.0,nabh accredited,1927
+HOS0227,  Indianapolis Memorial Hospital  ,Teaching Hospital,Private,Indianapolis,in   ,250.0,,1929
+HOS0286,  Cincinnati Health System  ,Children's Hospital,  Non-Profit,Cincinnati,OH,300.0,  Not Accredited,2003
+HOS0233,Baton Rouge Memorial Hospital,Teaching Hospital,Government,baton rouge,LA,250.0,JCI Accredited,1959
+HOS0080,Jersey City Regional Hospital,Teaching Hospital,University-Affiliated,Jersey City,NJ,75.0,,1950
+HOS0231,Madison Clinic,COMMUNITY HOSPITAL,University-Affiliated,Madison,WI,1000.0,Not Accredited   ,2000
+HOS0192,boston community health center,GENERAL HOSPITAL,Private,Boston,MA,200.0,JCI Accredited,1936
+HOS0136,Eugene  Community  Health  Center,General Hospital,PRIVATE,Eugene,OR,250.0,,2008
+HOS0019,Charleston Community Health Center #019,Teaching Hospital,Private,Charleston,SC,50.0,NABH Accredited,1992
+HOS0120,Jacksonville  Memorial  Hospital  #120,General Hospital,Private,Jacksonville,FL,75.0,CMS Certified,1997
+HOS0105,Portland Community Health Center,SPECIALTY CLINIC,University-Affiliated,Portland,OR,150.0,Not Accredited,1953
+HOS0139,Cleveland Medical Center,Children's Hospital,  university-affiliated,Cleveland,OH,300.0,JCI Accredited,1944
+HOS0170,Columbus Regional Hospital   ,Children's Hospital,Non-Profit,  Columbus,  OH,1000.0,Nabh Accredited,2000
+HOS0142,Columbus Clinic #142,  general hospital,Government,Columbus,OH,1000.0,NABH Accredited,2010
+HOS0016,Phoenix Memorial Hospital #016,Children's Hospital,Private,Phoenix,AZ   ,500.0,JCI  ACCREDITED,2000
+HOS0128,Jackson Health System #128,Teaching Hospital,,Jackson,MS,75.0,,1941
+HOS0087,Tucson University Hospital,Community Hospital,Government,Tucson,AZ,300.0,Not Accredited,2005
+HOS0172,Omaha Community Health Center,Specialty Clinic,Government,Omaha,NE,200.0,Not Accredited,2015
+HOS0061,Little Rock General Hospital,Teaching Hospital,Private,Little Rock,AR,750.0,  Not Accredited,1924
+HOS0098,Grand Rapids Regional Hospital,general hospital,Non-Profit,  Grand Rapids  ,MI,1000.0,JCI Accredited,1992
+HOS0028,Tucson Regional Hospital #028,General Hospital,Government,Tucson,  Az  ,1000.0,CMS Certified,1965
+HOS0018,Little Rock Medical Center,Children's Hospital,Non-Profit,Little Rock,AR,400.0,jci accredited,1934
+HOS0235,Charlotte General Hospital #235   ,General Hospital,University-Affiliated,Charlotte,nc,400.0,JCI Accredited,1977
+HOS0237,MILWAUKEE CLINIC,GENERAL  HOSPITAL,Non-Profit,  Milwaukee,WI,75.0,,1925
+HOS0151,Fresno University Hospital,specialty clinic,University-Affiliated,Fresno,CA,50.0,Not Accredited,2015
+HOS0295,Austin Memorial Hospital #295,COMMUNITY HOSPITAL,University-Affiliated,AUSTIN   ,  TX,500.0,CMS Certified,1972
+HOS0068,Richmond University Hospital,Specialty Clinic,,Richmond,VA,300.0,Jci Accredited,1958
+HOS0225,Austin Clinic,teaching hospital   ,,Austin,tx,300.0,  JCI ACCREDITED,1951
+HOS0166,Miami University Hospital,Community Hospital,,Miami,FL,150.0,CMS Certified,1993
+HOS0041,Boise Regional Hospital #041,Teaching Hospital,Private,Boise,ID,200.0,CMS Certified,1936
+HOS0278,Charleston Memorial Hospital #278   ,TEACHING HOSPITAL,Government,Charleston,SC,75.0,Not Accredited,2004
+HOS0261,Savannah Medical Center,Teaching Hospital,private,Savannah,GA,100.0,CMS Certified,1934
+HOS0132,SAN FRANCISCO MEMORIAL HOSPITAL   ,General Hospital,,San Francisco,CA,150.0,JCI Accredited,2006
+HOS0078,Portland University Hospital #078,Children's Hospital,University-Affiliated,Portland,OR   ,100.0,CMS Certified,1977
+HOS0300,Spokane Memorial Hospital #300,General Hospital,Non-Profit,Spokane,WA,150.0,,1936
+HOS0197,Cleveland Clinic #197,General Hospital,,cleveland   ,OH,250.0,NABH Accredited,1928
+HOS0054,Springfield Regional Hospital   ,Specialty Clinic,Government,Springfield,IL,250.0,CMS Certified,1999
+HOS0126,LITTLE ROCK MEMORIAL HOSPITAL,Community Hospital,Government,Little Rock,AR,1000.0,NABH Accredited,1953
+HOS0010,DETROIT UNIVERSITY HOSPITAL,Teaching Hospital   ,  Private,Detroit,MI,100.0,CMS Certified,1931
+HOS0079,Wichita Memorial Hospital,Specialty Clinic,Non-Profit,Wichita,KS,500.0,CMS Certified,2000
+HOS0032,  MIAMI REGIONAL HOSPITAL,General Hospital,University-Affiliated,miami,FL,500.0,JCI Accredited,1926
+HOS0283,Jacksonville Health System,General Hospital,  Private,Jacksonville,FL,1000.0,Not Accredited,1966
+HOS0076,Jackson Health System #076,Children's Hospital   ,University-Affiliated,Jackson,MS,50.0,NABH  Accredited,1935
+HOS0236,New Orleans Regional Hospital #236,teaching hospital,University-Affiliated,New Orleans,LA,500.0,nabh accredited,1927
+HOS0159,  Phoenix Health System #159,Teaching Hospital,Government,Phoenix,AZ,,Not Accredited,1927
+HOS0055,Des Moines Health System,Specialty Clinic,Private,Des Moines,IA,100.0,CMS Certified,1923
+HOS0251,  Columbia Clinic,Specialty Clinic,,Columbia,SC,,  CMS Certified,1944
+HOS0166,Miami University Hospital,Community Hospital,,Miami,FL,150.0,CMS Certified,1993
+HOS0265,Orlando Medical Center #265,Children's Hospital,Non-Profit,Orlando,fl,150.0,CMS Certified,1943
+HOS0052,Virginia Beach Health System #052,Children's Hospital,Government,  Virginia Beach  ,VA,250.0,NABH Accredited,1975
+HOS0108,  san francisco regional hospital,Community Hospital,University-Affiliated,San Francisco,CA,,JCI Accredited,1931
+HOS0060,worcester memorial hospital #060,Teaching Hospital,University-Affiliated,worcester,MA,1000.0,Not Accredited,1923
+HOS0086,Austin University Hospital #086,CHILDREN'S HOSPITAL   ,,austin,TX,400.0,NABH Accredited,1954
+HOS0019,Charleston Community Health Center #019,Teaching Hospital,Private,Charleston,SC,50.0,NABH Accredited,1992
+HOS0182,  Orlando General Hospital,Specialty Clinic,Private,Orlando,FL,300.0,CMS Certified,1967
+HOS0200,Seattle Clinic,Specialty Clinic,University-Affiliated,Seattle   ,WA,,CMS Certified,1971
+HOS0238,Minneapolis Regional Hospital,  Community Hospital,,  minneapolis,MN,500.0,NABH Accredited,1966
+HOS0232,Spokane Community Health Center #232,Specialty Clinic,University-Affiliated,Spokane,WA,75.0,CMS Certified,1976
+HOS0199,PORTLAND UNIVERSITY HOSPITAL #199,General Hospital,Government,Portland,OR,1000.0,NABH Accredited,1975
+HOS0233,Baton Rouge Memorial Hospital,Teaching Hospital,Government,baton rouge,LA,250.0,JCI Accredited,1959
+HOS0280,  Richmond Clinic #280,teaching hospital,University-Affiliated,Richmond,VA,,Not Accredited,1998
+HOS0297,Anchorage Clinic,Children's Hospital   ,Non-Profit,Anchorage,AK,100.0,NABH Accredited,1936
+HOS0191,Los Angeles General Hospital,General Hospital,Private,Los Angeles,CA,50.0,Not Accredited,1950
+HOS0023,Raleigh Clinic,General Hospital,Private,Raleigh,NC,150.0,JCI Accredited,1963
+HOS0223,  Newark University Hospital,  Children's Hospital,University-Affiliated,Newark,NJ,1000.0,CMS Certified,1957
+HOS0115,Orlando Medical Center #115   ,  Children's Hospital  ,PRIVATE,Orlando,fl,200.0,JCI Accredited,1926
+HOS0152,Detroit Clinic,  Community Hospital,University-Affiliated,DETROIT,MI,,NABH Accredited,1983
+HOS0177,  Omaha Memorial Hospital,Children's Hospital   ,Government   ,Omaha   ,NE,400.0,Not Accredited,2006
+HOS0188,Raleigh Community Health Center,SPECIALTY CLINIC,PRIVATE   ,Raleigh,NC,750.0,NABH Accredited,1928
+HOS0074,Milwaukee University Hospital #074,Children's Hospital,Private,Milwaukee,WI,300.0,CMS Certified,1971
+HOS0218,  Boise Regional Hospital #218,Community Hospital,Government,Boise,ID,50.0,NABH Accredited,1958
+HOS0241,San Jose University Hospital   ,Teaching Hospital,Non-Profit,San Jose,CA,1000.0,,1962
+HOS0146,New Orleans Regional Hospital #146,Community Hospital   ,  Private  ,New Orleans,LA,300.0,NABH Accredited,1996
+HOS0051,Houston University Hospital,Children's Hospital,,Houston,TX,75.0,JCI Accredited,2008
+HOS0256,Sacramento Health System,Community Hospital,,Sacramento,CA,150.0,CMS Certified,1964
+HOS0096,milwaukee health system #096,Children's Hospital,Government,Milwaukee,WI,100.0,Not Accredited,1933
+HOS0099,St. Louis Medical Center #099,Teaching Hospital,UNIVERSITY-AFFILIATED   ,St. Louis,MO,1000.0,Not Accredited,1928
+HOS0208,Buffalo Community Health Center #208,General Hospital,Non-Profit,Buffalo,NY,,  NABH Accredited  ,1974
+HOS0004,Provo Regional Hospital,Teaching Hospital,Government,Provo,UT,750.0,NABH Accredited,1988
+HOS0060,worcester memorial hospital #060,Teaching Hospital,University-Affiliated,worcester,MA,1000.0,Not Accredited,1923
+HOS0289,  Virginia Beach Clinic #289,Specialty Clinic   ,Non-Profit,Virginia Beach,VA,400.0,,1935
+HOS0162,  Anchorage University Hospital #162,Children's Hospital,Private,Anchorage,AK,400.0,NABH Accredited,1949
+HOS0244,Honolulu Community Health Center,Specialty Clinic,Government,Honolulu,hi,1000.0,CMS Certified,1985
+HOS0169,  Salt Lake City Clinic #169,Teaching Hospital,private,SALT LAKE CITY,UT,750.0,Not Accredited,1948
+HOS0050,Grand Rapids Community Health Center #050,Specialty  Clinic,,Grand Rapids,MI,100.0,CMS Certified,1990
+HOS0137,Springfield Clinic #137,Teaching Hospital,University-Affiliated,Springfield,IL,500.0,JCI Accredited,1978
+HOS0031,INDIANAPOLIS CLINIC,specialty clinic,University-Affiliated,indianapolis,IN,100.0,Not Accredited,1979
+HOS0200,Seattle Clinic,Specialty Clinic,University-Affiliated,Seattle   ,WA,,CMS Certified,1971
+HOS0195,Charlotte Medical Center,Children's Hospital,  Non-Profit  ,Charlotte,NC,400.0,JCI Accredited,1927
+HOS0057,Wichita Health System,general hospital,University-Affiliated,Wichita,KS,50.0,CMS Certified,1948
+HOS0202,Raleigh Memorial Hospital,Teaching Hospital,Private,Raleigh,NC,1000.0,CMS Certified,1928
+HOS0150,Boston University Hospital #150,Community Hospital   ,Non-Profit,BOSTON,MA,150.0,NABH Accredited,1993
+HOS0022,New Orleans Regional Hospital #022,Teaching Hospital,University-Affiliated,New Orleans,LA,1000.0,Not Accredited,1976
+HOS0184,  Milwaukee University Hospital #184  ,Teaching Hospital,Government,Milwaukee,  WI,250.0,NABH Accredited,1976
+HOS0001,Des Moines Community Health Center #001,Children's Hospital,Private,Des Moines,IA,,JCI Accredited,2004
+HOS0053,SAN JOSE HEALTH SYSTEM,general hospital,Non-Profit,San Jose   ,CA,250.0,JCI Accredited,1965
+HOS0127,Cincinnati Regional Hospital,Community Hospital,,Cincinnati,oh,500.0,NABH Accredited,2002
+HOS0295,Austin Memorial Hospital #295,COMMUNITY HOSPITAL,University-Affiliated,AUSTIN   ,  TX,500.0,CMS Certified,1972
+HOS0045,Portland Clinic,Children's Hospital,,Portland,OR,750.0,JCI Accredited,2005
+HOS0165,Jacksonville Memorial Hospital #165,Community Hospital,Non-Profit,Jacksonville,FL,400.0,Not Accredited,1945
+HOS0020,Tampa General Hospital,General Hospital   ,University-Affiliated,Tampa,FL   ,,NABH Accredited,1936
+HOS0201,Birmingham University Hospital,General Hospital,Non-Profit,Birmingham,AL,300.0,Not Accredited,2005
+HOS0095,Birmingham General Hospital,  Children's Hospital,Private,Birmingham   ,AL,400.0,Not Accredited,1967
+HOS0110,Kansas City Community Health Center #110,Community Hospital,Non-Profit,kansas city,MO,300.0,Not Accredited,1965
+HOS0253,Orlando University Hospital #253,Specialty Clinic   ,Private,Orlando,FL,750.0,NABH Accredited,1952
+HOS0059,Virginia Beach Medical Center #059,SPECIALTY CLINIC   ,University-Affiliated,  Virginia Beach,VA,,  Not Accredited  ,1928
+HOS0115,Orlando Medical Center #115   ,  Children's Hospital  ,PRIVATE,Orlando,fl,200.0,JCI Accredited,1926
+HOS0088,Oklahoma City University Hospital #088,Specialty Clinic,University-Affiliated,  Oklahoma City  ,OK,,,1970
+HOS0198,BALTIMORE HEALTH SYSTEM,  Teaching Hospital,Non-Profit,Baltimore,MD,300.0,Not Accredited,1978
+HOS0175,  BUFFALO COMMUNITY HEALTH CENTER #175,General Hospital,University-Affiliated,buffalo,NY,75.0,NABH Accredited,1948
+HOS0123,Kansas City Regional Hospital,Teaching Hospital,GOVERNMENT,Kansas City,MO,100.0,NABH Accredited,1942
