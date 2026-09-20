@@ -20,7 +20,7 @@ Build a complete analytics pipeline that takes raw, messy, multi-table healthcar
 4. **Tableau** — Data visualization and answer business questions through an interactive dashboard.
 
 ## 📊 Dashboard Preview
-<img width="1907" height="1027" alt="Screenshot 2026-09-12 192107" src="https://github.com/user-attachments/assets/facff2c2-fef6-4bc2-99df-c63eb1373800" />
+<img width="1374" height="772" alt="Screenshot 2026-09-20 114449" src="https://github.com/user-attachments/assets/9a035a01-cf71-4bab-af5c-86d7672b2cb2" />
 
 ## 🎥 Dashboard Walkthrough
 https://github.com/user-attachments/assets/39d22854-8416-438b-b97d-14bb450eaf4b
@@ -63,13 +63,14 @@ The data was connected to Tableau to build an interactive healthcare analytics d
 
 | KPI | Value |
 |---|---:|
-| Total Incidents | 310,000 |
-| Total Patients | 39,983 |
+| Total Incidents | 297,498 |
+| Total Patients | 38,384 |
 | Total Hospitals | 300 |
-| Total Treatment Cost | $1,629,870,304 |
-| Average Treatment Cost | $4,044 |
-| Average Length of Stay | 9.9 days |
-| Insurance Coverage | 67.27% |
+| Average Treatment Cost | $4,042.27 |
+| Average Length of Stay | 10 days |
+| Insurance Coverage | 67.26% |
+<img width="1350" height="72" alt="Screenshot 2026-09-20 125421" src="https://github.com/user-attachments/assets/f98d23f9-7d32-4171-99fa-38fb44c8efe8" />
+
 
 ## 📈 Business Questions & Visualizations
 
@@ -78,7 +79,8 @@ The data was connected to Tableau to build an interactive healthcare analytics d
 **Visualization:** Monthly Trend Line Chart
 
 This visual shows the monthly pattern of healthcare incidents and helps identify periods with relatively high or low incident volumes.
-<img width="1700" height="1027" alt="Screenshot 2026-09-12 201416" src="https://github.com/user-attachments/assets/7abd1d83-ae93-42df-8e55-9a08a741ab55" />
+<img width="1225" height="752" alt="Screenshot 2026-09-20 124959" src="https://github.com/user-attachments/assets/dfe7ebea-b082-4248-8eac-b3e06c581365" />
+
 
 ---
 
@@ -95,7 +97,8 @@ The analysis can be filtered by:
 - Transmission Type
 
 This helps identify diseases contributing most to the overall patient volume.
-<img width="1701" height="1028" alt="Screenshot 2026-09-12 201516" src="https://github.com/user-attachments/assets/05b7ac12-5c31-4452-a8c1-9effe069eea3" />
+<img width="1215" height="744" alt="Screenshot 2026-09-20 125023" src="https://github.com/user-attachments/assets/6698d122-755b-48d9-ae12-58f651536f2b" />
+
 
 ---
 
@@ -111,7 +114,8 @@ Patient volume is compared across:
 - Northeast
 
 This provides a high-level view of regional patient distribution and can support resource allocation decisions.
-<img width="1639" height="1024" alt="Screenshot 2026-09-12 201603" src="https://github.com/user-attachments/assets/68dbb295-a52d-4d54-922a-95f4e61ea83b" />
+<img width="1149" height="744" alt="Screenshot 2026-09-20 125111" src="https://github.com/user-attachments/assets/d2495a78-7c59-4a59-a81a-665c292c9cb0" />
+
 
 ---
 
