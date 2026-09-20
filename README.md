@@ -23,7 +23,7 @@ Build a complete analytics pipeline that takes raw, messy, multi-table healthcar
 <img width="1374" height="772" alt="Screenshot 2026-09-20 114449" src="https://github.com/user-attachments/assets/9a035a01-cf71-4bab-af5c-86d7672b2cb2" />
 
 ## 🎥 Dashboard Walkthrough
-https://github.com/user-attachments/assets/39d22854-8416-438b-b97d-14bb450eaf4b
+https://github.com/user-attachments/assets/659b4c91-54c8-4910-b9ec-d1fb3bd482db
 
 ## 🔄 Project Workflow
 1. Excel — Data Understanding & Profiling
